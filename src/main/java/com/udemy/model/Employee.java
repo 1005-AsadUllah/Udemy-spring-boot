@@ -1,4 +1,4 @@
-package com.udemy.entity;
+package com.udemy.model;
 
 public class Employee {
 
