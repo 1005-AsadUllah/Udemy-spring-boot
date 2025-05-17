@@ -1,0 +1,22 @@
+# Maven build directory
+/target/
+
+# IntelliJ IDEA project files
+/.idea/
+/*.iml
+/workspace.xml
+/shelf/
+/httpRequests/
+/mavenHomeManager.xml
+/dataSources/
+/dataSources.local.xml
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+
+# Compiled files
+*.class
+
